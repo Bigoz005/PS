@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\bin\Debug\ServerECHOTCP.exe.config
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\bin\Debug\ServerECHOTCP.exe
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\bin\Debug\ServerECHOTCP.pdb
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\obj\Debug\ServerECHOTCP.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\obj\Debug\ServerECHOTCP.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\obj\Debug\ServerECHOTCP.exe
+C:\Users\micha\Desktop\WebProgramming-master\Lab1\ServerECHOTCP\ServerECHOTCP\obj\Debug\ServerECHOTCP.pdb

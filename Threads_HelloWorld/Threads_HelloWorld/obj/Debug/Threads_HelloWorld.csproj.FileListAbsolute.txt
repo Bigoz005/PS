@@ -1,0 +1,7 @@
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\bin\Debug\Threads_HelloWorld.exe.config
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\bin\Debug\Threads_HelloWorld.exe
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\bin\Debug\Threads_HelloWorld.pdb
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\obj\Debug\Threads_HelloWorld.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\obj\Debug\Threads_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\obj\Debug\Threads_HelloWorld.exe
+C:\Users\micha\source\repos\Threads_HelloWorld\Threads_HelloWorld\obj\Debug\Threads_HelloWorld.pdb
